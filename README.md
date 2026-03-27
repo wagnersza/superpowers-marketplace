@@ -7,7 +7,7 @@ Curated Claude Code plugins for skills, workflows, and productivity tools.
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add obra/superpowers-marketplace
+/plugin marketplace add wagnersza/superpowers-marketplace
 ```
 
 ## Available Plugins
